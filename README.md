@@ -1,7 +1,7 @@
 # dictbydomain
 根据URL生成强关联的目录字典
 
-![](.\dictbydomain.png)
+![](https://github.com/duyannnnn/dictbydomain/blob/main/dictbydomain.png)
 
 ###### Usage
 
